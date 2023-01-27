@@ -17,6 +17,7 @@ android {
         }
     }
     buildToolsVersion '30.0.3'
+    namespace 'ch.supsi.dti.isin.meteoapp'
 }
 
 dependencies {
